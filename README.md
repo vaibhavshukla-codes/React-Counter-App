@@ -98,7 +98,7 @@ npm run build
 ## 📸 Screenshots of the Application UI
 
 ### Desktop View
-(screenshots/desktop-view.png)
+![Desktop View](screenshots/desktop-view.png)
 
 ### Live Demo Preview
 **🔗 [View Live Demo](https://react-counter-app-red-phi.vercel.app/)**
