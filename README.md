@@ -98,16 +98,15 @@ npm run build
 ## 📸 Screenshots of the Application UI
 
 ### Desktop View
-
 ![Desktop View](screenshots/desktop-view.png)
 
 ### Mobile View
-
 ![Mobile View](screenshots/mobile-view.png)
 
-### Settings Panel
+### Live Demo Preview
+**🔗 [View Live Demo](https://react-counter-app-red-phi.vercel.app/)**
 
-![Settings Panel](screenshots/settings-panel.png)
+*The app features a beautiful purple gradient background with a modern glass-morphism design. The counter displays dynamically with color-coded values (green for positive, red for negative, gray for zero). Interactive buttons provide smooth hover animations and the settings panel allows custom step sizes and negative value toggles.*
 
 ## 🎥 Demo Video Link
 
