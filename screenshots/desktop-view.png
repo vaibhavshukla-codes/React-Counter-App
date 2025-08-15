@@ -1,0 +1,19 @@
+# Desktop Screenshot Placeholder
+
+This file should be replaced with an actual screenshot of the React Counter App.
+
+## Screenshot Details:
+- **URL**: https://react-counter-app-red-phi.vercel.app/
+- **Features Visible**:
+  - Purple gradient background
+  - Counter showing "-8" in red
+  - Three buttons: Decrement (orange-red), Reset (gray), Increment (green)
+  - Settings panel with step size "3" and negative values enabled
+  - Bounds: -100 to 100
+  - Current step: 3
+
+## How to Take Screenshot:
+1. Open https://react-counter-app-red-phi.vercel.app/
+2. Take a full-page screenshot
+3. Save as "desktop-view.png" in this directory
+4. Replace this placeholder file 

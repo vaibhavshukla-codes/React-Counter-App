@@ -21,11 +21,11 @@ The React Counter App is an interactive web application that allows users to inc
 
 ## 🔗 GitHub Repository Link
 
-[React Counter App Repository](https://github.com/yourusername/react-counter-app)
+[React Counter App Repository](https://github.com/vaibhavshukla-codes/React-Counter-App)
 
 ## 🌐 Live Demo Link
 
-[Live Demo on Vercel](https://react-counter-app-demo.vercel.app)
+[Live Demo on Vercel](https://react-counter-app-red-phi.vercel.app/)
 
 ## 🛠 Technologies Used
 
@@ -225,10 +225,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Vaibhav Shukla**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@vaibhavshukla-codes](https://github.com/vaibhavshukla-codes)
 
 ---
 
