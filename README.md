@@ -105,10 +105,6 @@ npm run build
 
 *The app features a beautiful purple gradient background with a modern glass-morphism design. The counter displays dynamically with color-coded values (green for positive, red for negative, gray for zero). Interactive buttons provide smooth hover animations and the settings panel allows custom step sizes and negative value toggles.*
 
-## 🎥 Demo Video Link
-
-[Demo Video on YouTube](https://youtu.be/your-demo-video)
-
 ## 🔧 Feature List
 
 ### ✅ Core Features (Required)
